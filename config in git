@@ -1,6 +1,10 @@
-set a user name or email in git config 
+git ke ander config set karna 
+
 git config --global user.name "harsh"
 git config --global user.name "xyz@gmail.com"
 
+
+
 agar git ka config dekhna hai to 
+
 git config --global --list

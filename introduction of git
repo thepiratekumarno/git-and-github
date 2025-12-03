@@ -1,0 +1,19 @@
+Git ek version control system hai.
+Matlab tumhara code ka history save karta hai, aur agar galti ho gayi to purana version wapas la sakti ho.
+👉 Imagine karo tum ek project bana rahi ho.
+Har update, har change Git track karega.
+
+Benefits:
+
+Code backup
+Purane versions restore
+Branch create karke new feature try kar sakti ho
+Team me kaam karna easy
+
+Git = tool
+
+Git                                          	GitHub
+Local machine me install hota                 hai	Online website hai
+Version control tool	                        Code store karne ki jagah
+Without internet use hota                    	Internet required
+Offline tracking	                            Online collaboration
